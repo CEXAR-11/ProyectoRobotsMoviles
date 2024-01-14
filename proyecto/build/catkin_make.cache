@@ -1,0 +1,2 @@
+navigation_stage
+-DCATKIN_DEVEL_PREFIX=/home/ros/Escritorio/proyecto/devel -DCMAKE_INSTALL_PREFIX=/home/ros/Escritorio/proyecto/install -G Unix Makefiles

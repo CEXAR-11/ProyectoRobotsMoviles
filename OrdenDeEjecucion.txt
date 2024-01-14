@@ -1,0 +1,12 @@
+Pasos a seguir para la ejecución del proyecto:
+
+---------- En ubuntu -----------
+
+1. Lanzar el mi_navegation.launch
+2. Establecer una estimación de la posición inicial
+3. Lanzar el nodo color_detector2.py
+4. Lanzar el nodo UnionConexion.py
+
+
+-------- En windows ----------
+1. Lanzar el nodo cliente.py
